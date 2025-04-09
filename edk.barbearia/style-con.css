@@ -1,0 +1,10 @@
+nav li{display: inline;
+    margin: 0 0 0 15px;
+    text-align: center;
+}
+
+    header img{
+        width: 100px;
+        height: 100px;
+        border-radius: 20%;
+    }
