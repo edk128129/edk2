@@ -1,0 +1,9 @@
+body {background-color: red;
+color: white;}
+
+.teste{
+    background-color: black;
+    height: 200px;
+    width: 500px;
+    margin-left: 61%;
+}
